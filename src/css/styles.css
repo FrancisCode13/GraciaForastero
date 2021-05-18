@@ -1,0 +1,32 @@
+html {
+  scroll-behavior: smooth;
+}
+.navbar-light .navbar-nav .nav-link {
+	color: #C2C5CC;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+	color: #fff;
+	text-decoration: underline;
+}
+
+.transparent {
+	transition: .7s
+}
+.transparent:hover {
+	background-color: rgba(0, 0, 0, .3);
+}
+
+.button-gh {
+	transition: .7s;
+}
+.button-gh:hover {
+	background-color: #EA4C46;
+}
+
+.text-size {
+	transition: .5s;
+}
+.text-size:hover {
+	background-color: #f7f7f7;
+	color: #EA4C46;
+}
